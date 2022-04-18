@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-morney-website/static/css/main.74398f78.css",
+    "main.js": "/react-morney-website/static/js/main.94510ea2.js",
+    "index.html": "/react-morney-website/index.html",
+    "main.74398f78.css.map": "/react-morney-website/static/css/main.74398f78.css.map",
+    "main.94510ea2.js.map": "/react-morney-website/static/js/main.94510ea2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74398f78.css",
+    "static/js/main.94510ea2.js"
+  ]
+}
